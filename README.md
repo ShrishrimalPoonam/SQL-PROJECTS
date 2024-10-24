@@ -1,5 +1,6 @@
 # SQL-PROJECT-2
 
+**Overview**
 <div align = "justify">A retail chain, "AussieRetailers," operates across multiple states in Australia, tracking sales transactions, maintaining customer profiles, monitoring product inventory, scheduling staff shifts, and recording customer complaints.</div>
 _
 
