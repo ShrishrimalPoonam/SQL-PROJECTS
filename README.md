@@ -2,3 +2,4 @@
 -
 
 - **SQL PROJECT 1** - [https://github.com/ShrishrimalPoonam/SQL-PROJECTS.git](https://github.com/ShrishrimalPoonam/SQL-PROJECTS/tree/SQL-PROJECT-1)
+- **SQL PROJECT 2** - https://github.com/ShrishrimalPoonam/SQL-PROJECTS/tree/SQL-PROJECT-2
