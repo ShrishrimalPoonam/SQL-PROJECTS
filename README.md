@@ -1,7 +1,7 @@
 # SQL-PROJECT-2
 
 **Overview**
-<div align = "justify">A retail chain, "AussieRetailers," operates across multiple states in Australia, tracking sales transactions, maintaining customer profiles, monitoring product inventory, scheduling staff shifts, and recording customer complaints.</div>
+<div align = "justify">A XYZ retail chain, operates across multiple states in Australia, tracking sales transactions, maintaining customer profiles, monitoring product inventory, scheduling staff shifts, and recording customer complaints.</div>
 _
 
 **Data Used**
@@ -9,7 +9,7 @@ _
 - Data Cleaning & Analysis - MySQL Workbench
 
 **Objective**
-<div align = "justify">Analyze "AussieRetailers'" operational data using advanced SQL queries, focusing on sales performance, customer satisfaction, and staff efficiency.</div>
+<div align = "justify">Analyze XYZ's operational data using advanced SQL queries, focusing on sales performance, customer satisfaction, and staff efficiency.</div>
 _
 
 **Questions**
@@ -30,7 +30,7 @@ _
 - Find the product with the highest number of complaints and detail the nature of these complaints.
 
 **Additonal Questions**
-- Which staff members have the highest average sales volume per shi􀅌, and how does it vary across different branches?
+- Which staff members have the highest average sales volume per shift, and how does it vary across different branches?
 - Segment the customer based on their total spend over the given period.
 - Check the products that are never sold during the given period and their stock levels.
 - List all customers who have unresolved complaints and check the purchase count before and after the complaint.
